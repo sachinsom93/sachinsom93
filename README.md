@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Visitor Count](https://profile-counter.glitch.me/sachinsom93/count.svg)
+![Visitors count](https://visitor-badge.glitch.me/badge?page_id=sachinsom93.sachinsom93)
+
 
 
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinsom93&show_icons=true)
