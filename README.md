@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Visitors count](https://visitor-badge.glitch.me/badge?page_id=sachinsom93.sachinsom93)
+![Visitors Count](https://komarev.com/ghpvc/?username=sachinsom93&color=ff69b4&base=5000)
 
 
 
